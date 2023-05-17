@@ -1,4 +1,5 @@
-# ENSF 608 Databases Assignment 1    
+# ENSF 608 - Databases 
+### Assignment 1    
 
 An assignment on Enhanced Entity Relationship Diagrams (EERD) 
 
